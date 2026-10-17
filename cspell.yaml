@@ -167,6 +167,7 @@ words:
 - RPC
 - aarch
 - trino
+- testcontainers
 - oozie
 - spnego
 - keytab
